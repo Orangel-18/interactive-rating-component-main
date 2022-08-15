@@ -19,7 +19,7 @@ btns.forEach((btn) => {
     const newCard = `
 
       <div class="self-center justify-self-center p-3">
-        <img src="/illustration-thank-you.svg" alt="">
+        <img src="/public/illustration-thank-you.svg" alt="">
       </div>
 
       <span class="text-lg rounded-full p-2.5 bg-indigo-500 text-orange-500">You selected ${rate} out of 5</span>
