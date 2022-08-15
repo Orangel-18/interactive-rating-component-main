@@ -1,3 +1,4 @@
+
 import './style.css'
 import Toastify from 'toastify-js'
 import "toastify-js/src/toastify.css"
@@ -12,6 +13,7 @@ const btns = ratebar!.childNodes;
 
 btns.forEach((btn) => {
   btn.addEventListener('click', (e) => {
+    // @ts-ignore
     const rate = e!.target!.innerText;
     
     const newCard = `
