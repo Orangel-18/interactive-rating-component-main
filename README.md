@@ -20,4 +20,4 @@ Users should be able to:
 - [Tailwind](https://tailwindcss.com/)
 - [Vite.js](https://vitejs.dev/)
 
-
+## Check it out live here: https://orangel-18.github.io/interactive-rating-component-main/
