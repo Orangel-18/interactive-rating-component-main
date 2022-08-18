@@ -18,7 +18,7 @@ btns.forEach((btn) => {
     
     const newCard = `
 
-      <div class="self-center justify-self-center p-3">
+      <div class="self-center justify-self-center p-3 w-auto h-auto">
         <img src="/illustration-thank-you.png" alt="">
       </div>
 
